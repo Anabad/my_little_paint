@@ -2,11 +2,13 @@
 #define VIEW_H
 
 #include <QMainWindow>
-#include <QtWidgets>
 #include <QPainter>
 #include<QColor>
 #include"canvas.h"
 #include<QVBoxLayout>
+#include <QColorDialog>
+#include<QInputDialog>
+#include<QFileDialog>
 
 class Control;
 
